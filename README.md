@@ -1,5 +1,5 @@
 # cricket-analysis
-Assignment on cricket stats of past 45 years
+Grabbing cricket stats of past 45 years
 
 ## STEPS
 >Scrape the site optimally without spamming the webserver to prevent from getting blacklisted
